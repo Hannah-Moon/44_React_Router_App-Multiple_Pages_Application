@@ -1,17 +1,19 @@
-# GLAB 320H.8.1 - React Router App
+# React Router API App: Real Time Cypto Currency App
+
+In this lab activity,I created a "multi-page" application that displays the prices for common crypto-currencies.
+
+<img alt='screen capture' src="./assets/cryptoPrices.gif"></div>
 
 ## Learning Objectives
 
-After completing this lab, learners will be able to:
-
 - Create a "multi-page" React application using BrowserRouter.
 - Fetch and handle data from an external API in React.
+- Create a React application based on given requirements.
+- Consume an external API and render its data according to requirements.
 
 ## Using React Router
 
-We will be creating a "multi-page" application that displays the prices for common crypto-currencies.
-
-To get started, create a new React app within a project folder, as follows:
+To get started, create a new React app within a project folder, I followed the below steps:
 
 1. Run command `npx create-react-app cryptoprices`.
 2. `cd` into the `cryptoprices` folder.
